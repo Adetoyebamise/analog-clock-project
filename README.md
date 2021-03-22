@@ -1,2 +1,2 @@
 #### analog-clock-project
-Using HTML, CSS and JavaScript to create a working analog clock
+Aim: Using HTML, CSS and JavaScript to create a working analog clock
